@@ -1,0 +1,21 @@
+body{
+    background-color: lightblue;
+}
+h1{
+    color: red;text-align: center;font-size: medium;
+}
+form{
+    text-align: center;
+    width: 30%;
+    border: 1px solid grey;
+    padding: 10px;
+    margin: 10px auto;
+}
+#username{
+    border-radius: 25px;
+    margin-bottom: 25px;
+}
+#password{
+    border-radius: 25px;
+}
+    
